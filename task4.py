@@ -1,4 +1,4 @@
-with open(r"D:\Git\backup\lesson5\task4_salary.txt", "r", encoding="utf8") as my_file:
+with open("task4_salary.txt", "r", encoding="utf8") as my_file:
     board = 20000.00
     my_sum = 0.00
     c = 0
